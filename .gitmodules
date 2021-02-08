@@ -1,0 +1,9 @@
+[submodule "MPStats"]
+	path = MPStats
+	url = https://github.com/momeara/MPStats
+[submodule "MPLearn"]
+	path = MPLearn
+	url = https://github.com/momeara/MPLearn
+[submodule "MPProjects"]
+	path = MPProjects
+	url = https://github.com/momeara/MPProjects
